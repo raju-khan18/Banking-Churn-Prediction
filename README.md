@@ -5,6 +5,7 @@ This project analyzes and predicts customer churn in the banking sector using ma
 
 The goal is to help banks identify at-risk customers and implement targeted retention strategies, reducing churn and increasing customer lifetime value.
 
+
 ## 🚀 Key Features
 - Exploratory Data Analysis (EDA): Identified trends and relationships within customer data.
 
@@ -17,6 +18,7 @@ The goal is to help banks identify at-risk customers and implement targeted rete
 - Model Evaluation: Assessed models using accuracy, precision, recall, and F1-score.
 
 - Deployment Plan: Outlined steps to integrate the best model into CRM systems for real-time churn prediction.
+
 
 ## 📂 Project Structure
 
@@ -55,11 +57,15 @@ SMOTE was more effective than ADASYN in handling class imbalance.
 
 Customer segmentation revealed that younger customers with lower balances are at higher churn risk.
 
-## 📜 Final Report
-📄 View Final Report (PDF)
 
-🌐 Author
+## 📜 Final Report
+📄 [View Final Report (PDF)](https://github.com/raju-khan18/Banking-Churn-Prediction/blob/main/report/Banking_Churn_Prediction_Report.pdf)
+
+
+## 🌐 Author
 👤 Raju Khan
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/raju-khan-rk/)
+
 📧 20033471@mydbs.ie / raju8khan1@gmail.com
 
